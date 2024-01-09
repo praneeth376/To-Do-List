@@ -6,7 +6,7 @@ Users can interact with the application through a clean and responsive user inte
 
 The goal of this project is to provide a foundational example of a To-Do List application that can be further customized and expanded upon. Users can adapt the code to include additional features, enhance the styling, or integrate it with a backend server and database for more advanced functionality and data storage.
 
-To set up and run the To-Do List application, follow these steps:
+**To set up and run the To-Do List application**, follow these steps:
 
 ### Prerequisites:
 
